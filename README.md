@@ -1,5 +1,5 @@
 # Table of Contents
-- [Introduction](https://github.com/shawnhiramatsu/Hello_World/#Project-Title)
+- [Introduction](https://github.com/shawnhiramatsu/Hello_World/#Introduction)
 - Project Title
 - Description
 - How to Run Program
