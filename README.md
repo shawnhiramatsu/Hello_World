@@ -5,14 +5,13 @@
 - [How to Run Program](https://Github.com/shawnhiramatsu/Hello_World#How-to-Run-Program)
 - [Files Used](https://Github.com/shawnhiramatsu/Hello_World#Files-Used)
 # Introduction
-- I am currently a junior at the Unviersity of Iowa Tippie College of Business majoring in Finance, Business Analytics and Information System, with a certificate in Risk Management and Insurance.  
+- I am currently a junior at the University of Iowa Tippie College of Business majoring in Finance, Business Analytics and Information System, with a certificate in Risk Management and Insurance. 
+- Currently I am looking for an internship for Summer 2022. I am a motivated individual looking forward to transferring my new skills from the classroom to real world applicable scenarios and situations.
 # Project Title
-blah blah blah I will add sometihng later to this section
+NFL Combine Performance & Attributes that Dictate the NFL Draft Value Overall
 # Description
-This will be a
+ We as a group gathered data from past NFL Combine results [(Pro-Football-Reference.com)](https://www.pro-football-reference.com/) and used multi-linear regression and data visualization to measure what NFL combine drills and attributes determined when a runningback would get drafted.
 # How to Run Program
-adsads  
-asdaf  
-
+Program was ran through Excel, and used multi-linear regression and data visualization along with determining correlation.
 # Files Used
-Chicken Nuggets
+
